@@ -14,9 +14,9 @@ I hope you enjoy my blog posts as much as I enjoy writing it!
 
 ## Related Links
 
-- [CnBlog Page](https://www.cnblogs.com/NormalLLer)
+- [CNBlog Page](https://www.cnblogs.com/NormalLLer)
 
-- [Github Profile](https://github.com/NormalLLer)
+- [GitHub Profile](https://github.com/NormalLLer)
 
 ## Contact
 
