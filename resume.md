@@ -4,4 +4,4 @@ layout: default
 # parent: About Me
 ---
 
-<object data="resume.pdf"> </object>
+<iframe src="resume.pdf"> </iframe>
