@@ -19,7 +19,3 @@ My Email: wanqingsi1438438@gmail.com
 ## My Resume File
 
 [Click here to view pdf file](./resume.html)
-
----
-
-
