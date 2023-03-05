@@ -1,6 +1,6 @@
 ---
 title: Resume
-layout: home
+layout: default
 parent: About Me
 ---
 
