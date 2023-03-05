@@ -81,6 +81,7 @@ DEPENDENCIES
   jekyll-default-layout
   just-the-docs (= 0.4.1)
   wdm (>= 0.1.0)
+  webrick
 
 BUNDLED WITH
    2.3.9
