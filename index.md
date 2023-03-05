@@ -12,6 +12,12 @@ I’ve dived into the area of <u>Computer Science</u> for nearly 3 years. I’ve
 
 I hope you enjoy my blog posts as much as I enjoy writing it!
 
+## Related Links
+
+- [CnBlog Page](https://www.cnblogs.com/NormalLLer)
+
+- [Github Profile](https://github.com/NormalLLer)
+
 ## Contact
 
 My Email: wanqingsi1438438@gmail.com
