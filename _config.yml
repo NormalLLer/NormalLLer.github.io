@@ -5,7 +5,18 @@ theme: just-the-docs
 url: https://normalller.github.io/
 
 aux_links:
-  Template Repository: https://github.com/NormalLLer/NormalLLer.github.io
+  My GitHub Profile: https://github.com/NormalLLer
+
+aux_links_new_tab: true
+
+heading_anchors: true
 
 plugins:
   - jekyll-default-layout
+
+footer_content: "Copyright &copy; NormalLLer. Distributed by an <a href=\"https://github.com/NormalLLer/NormalLLer.github.io/blob/main/LICENSE\">MIT license.</a>"
+
+# last_edit_timestamp: true
+# last_edit_time_format: "%b %e %Y at %I:%M %p"
+
+color_scheme: light
