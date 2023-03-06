@@ -14,3 +14,5 @@ vendor/
 git.sh
 Gemfile.lock
 __tutorial__.md
+
+_config_local.yml
