@@ -3,7 +3,7 @@ description: Welcome to NormalLLer's GitHub Page!
 
 baseurl: "/guidelines"
 # theme: just-the-docs
-remote_theme: pmarsceill/just-the-docs
+remote_theme: NormalLLer/just-the-docs
 
 url: https://normalller.github.io/
 
