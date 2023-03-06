@@ -1,7 +1,8 @@
 ---
 title: About Me
 layout: home
-has_children: false
+has_children: true
+has_toc: false
 ---
 
 ## Brief Introduction
@@ -14,9 +15,9 @@ I hope you enjoy my blog posts as much as I enjoy writing it!
 
 ## Related Links
 
-- [CNBlog Page](https://www.cnblogs.com/NormalLLer)
+- [My cnblog page](https://www.cnblogs.com/NormalLLer)
 
-- [GitHub Profile](https://github.com/NormalLLer)
+- [My GitHub profile](https://github.com/NormalLLer)
 
 ## Contact
 
@@ -24,4 +25,6 @@ My Email: wanqingsi1438438@gmail.com
 
 ## My Resume File
 
-[Click here to view pdf file](./resume.html)
+Click the button below to browse my resume.
+
+[View](./resume.html){: .btn .btn-purple }
